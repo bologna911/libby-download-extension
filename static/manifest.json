@@ -7,6 +7,12 @@
     "48": "icons/music-player-fill.svg",
     "96": "icons/music-player-fill.svg"
   },
+"browser_specific_settings": {
+  "gecko": {
+    "id": "LibbyDownload@example.com",
+    "strict_min_version": "58.0"
+  }
+},
   "permissions": [
     "activeTab",
     "downloads",
